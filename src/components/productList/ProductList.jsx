@@ -9,8 +9,16 @@ function ProductList() {
       <div className="pl-texts">
         <h1 className="pl-title">Projects</h1>
         <p className="pl-desc">
-          BlahBlah is a creative protofolio that your work has been wiating
-          beautiful homes, stunnigna dj fun a;f iydy;fe a
+          Below are some of the Projects I worked on using variety of skills
+          such as: <br></br>
+          <b>
+            {" "}
+            ReactJs, Javascript, NodeJs, Ejs, Api integration and extensive
+            knowledge of CSS.
+          </b>{" "}
+          <br></br>
+          <b>Katenga: </b> is a pro bono project that is very dear to my heart
+          and it's still in progress...
         </p>
       </div>
       <div className="pl-list">

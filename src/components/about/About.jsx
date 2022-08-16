@@ -17,8 +17,11 @@ function About() {
       <div className="about-right">
         <h1 className="about-title">About Me</h1>
         <p className="about-sub">
-          It is a long established fact that those who never gives will
-          ultimately succeed.
+          "Do the best you can until you know better. Then when you know better,
+          do better."{" "}
+          <strong>
+            <i>Maya Angelou</i>
+          </strong>
         </p>
         <p className="about-description">
           Lorem ipsum dolor sit amet, consectetur adipsicing el eliusmod temppr
@@ -37,8 +40,8 @@ function About() {
             <h1>Certifications:</h1>
             <h4 className="about-award-title">AWS Cloud Practitioner</h4>
             <p className="about-award-desc">
-              I am a certified AWS cloud practitioner with practical knowledge
-              about the cloud. Skills include but not limited to: <br></br>
+              I am a certified AWS cloud practitioner with knowledge about the
+              cloud. Skills include but not limited to: <br></br>
               <strong>
                 {" "}
                 AWS Cloud |<span> Cloud Computing </span>| Cloud Platform |

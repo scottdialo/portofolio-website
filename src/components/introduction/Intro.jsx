@@ -12,16 +12,17 @@ const Intro = function () {
           <div className="intro-title">
             <div className="intro-title-wrapper">
               <div className="intro-title-item">Web Developer</div>
-              <div className="intro-title-item">UX/UI Designer</div>
-              <div className="intro-title-item">Photographer</div>
-              <div className="intro-title-item">Soccer Player</div>
-              <div className="intro-title-item">Cook Afficiniado</div>
+              <div className="intro-title-item">Javascript</div>
+              <div className="intro-title-item">React JS</div>
+              <div className="intro-title-item">NodeJS</div>
+              <div className="intro-title-item">AWS Cloud Practitioner</div>
             </div>
           </div>
           <p className="intro-description">
             I am a Web Developer who has a strong bond with product that are
             built well, therefore I do nothing but make things people love and
-            enjoy. I am Creative, natural leader and an excellent team player.
+            enjoy. I am Creative with strong leadership skills and an excellent
+            team player.
           </p>
         </div>
       </div>
