@@ -24,11 +24,13 @@ function About() {
           </strong>
         </p>
         <p className="about-description">
-          Lorem ipsum dolor sit amet, consectetur adipsicing el eliusmod temppr
-          Lorem ipsum dolor sit amet, consectetur adipsicing el eliusmod temppr
-          Lorem ipsum dolor sit amet, consectetur adipsicing el eliusmod temppr
-          Lorem ipsum dolor sit amet, consectetur adipsicing el eliusmod temppr
-          Lorem ipsum dolor sit amet, consectetur adipsicing el eliusmod temppr
+          My name is Scott and I am entrepreneur turned software engineer, I
+          have started few companies before and learned a ton. As a person with
+          a curious mind I am always looking for ways to improve things to
+          enhance the customer experience. I am looking to join a creative and
+          innovative team to learn and contribute my experiences to. I have
+          knowledge in building applications using Javascript, React, nodeJs and
+          mongoDB. Git is to die for!
         </p>
         <div className="about-award">
           <img
