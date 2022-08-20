@@ -96,4 +96,13 @@
   .intro-description {
     display: none;
   }
+  .intro-title-item {
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro-title-item {
+    font-size: 25px;
+  }
 }
