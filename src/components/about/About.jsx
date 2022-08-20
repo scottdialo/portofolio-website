@@ -30,7 +30,7 @@ function About() {
           enhance the customer experience. I am looking to join a creative and
           innovative team to learn and contribute my experiences to. I have
           knowledge in building applications using Javascript, React, nodeJs and
-          mongoDB. Git is to die for!
+          mongoDB. Git is underrated!
         </p>
         <div className="about-award">
           <img
