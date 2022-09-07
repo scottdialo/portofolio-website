@@ -9,7 +9,7 @@ export const products = [
   {
     id: 2,
     img: "https://i.postimg.cc/C5D3Xx6Z/katenga.png",
-    link: "https://katenga.herokuapp.com/",
+    link: "http://katenga-env.eba-i9t2gmux.us-west-1.elasticbeanstalk.com/",
   },
   {
     id: 3,
