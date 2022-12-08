@@ -4,7 +4,7 @@ export const products = [
   {
     id: 1,
     img: "https://i.postimg.cc/sXKQS3Jh/weather-App.png",
-    link: "https://digital-time-app.herokuapp.com/",
+    link: "https://stoicism-quote-app.netlify.app/",
   },
   {
     id: 2,
