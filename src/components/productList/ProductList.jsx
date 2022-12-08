@@ -17,7 +17,7 @@ function ProductList() {
             knowledge of CSS.
           </b>{" "}
           <br></br>
-          <b>Katenga: </b> is a pro bono project that is very dear to my heart
+          <b>Katenga: </b> is a pro bono project 
           and it's still in progress...
         </p>
       </div>

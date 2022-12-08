@@ -11,11 +11,11 @@ const Intro = function () {
           <h2 className="intro-name">Scott Dialo</h2>
           <div className="intro-title">
             <div className="intro-title-wrapper">
-              <div className="intro-title-item">Web Developer</div>
               <div className="intro-title-item">Javascript</div>
               <div className="intro-title-item">React JS</div>
               <div className="intro-title-item">NodeJS</div>
-              <div className="intro-title-item">AWS Cloud Practitioner</div>
+              <div className="intro-title-item">GraphQL / Apollo</div>
+              <div className="intro-title-item">Figma</div>
             </div>
           </div>
           <p className="intro-description">
