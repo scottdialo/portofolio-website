@@ -11,14 +11,14 @@ function Copyright() {
           <img
             src="github-mark.png"
             className="github-icon"
-            Alt="github-icon"
+            alt="github-icon"
           />
         </a>
         <a href="https://www.linkedin.com/in/scottdialo/">
           <img
             src="LI-Logo.png"
             className="linkedin-icon"
-            Alt="linkedin-icon"
+            alt="linkedin-icon"
           />
         </a>
       </footer>

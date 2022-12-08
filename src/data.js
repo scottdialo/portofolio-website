@@ -1,5 +1,3 @@
-import React from "react";
-
 export const products = [
   {
     id: 1,
@@ -14,6 +12,6 @@ export const products = [
   {
     id: 3,
     img: "https://i.postimg.cc/Wz1D7tpv/newletter-App.png",
-    link: "https://aqueous-castle-69861.herokuapp.com/",
+    link: "https://newsletter-web-app.vercel.app/",
   },
 ];
