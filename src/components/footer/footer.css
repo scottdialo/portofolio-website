@@ -1,3 +1,15 @@
 footer {
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.github-icon {
+  width: 25px;
+  margin-left: 12px;
+}
+.linkedin-icon {
+  width: 50px;
+  padding-left: 12px;
 }
