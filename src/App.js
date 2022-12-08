@@ -1,4 +1,4 @@
-import React, { useContext, useState } from "react";
+import React, { useContext } from "react";
 import Copyright from "./components/footer/Copyright";
 import Intro from "./components/introduction/Intro";
 import About from "./components/about/About";
@@ -6,7 +6,6 @@ import ProductList from "./components/productList/ProductList";
 import Contact from "./components/contact/Contact";
 import Darkmode from "./components/darkmode/darkmode";
 import { ThemeContext } from "./components/context";
-// import { ThemeProvider } from "./components/context";
 
 function App() {
   const theme = useContext(ThemeContext);

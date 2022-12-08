@@ -1,4 +1,5 @@
 import React from "react";
+// eslint-disable-next-line
 import about from "../about/about.css";
 import Aws_certificate from "../../images/aws_cloud_certificate.png";
 function About() {
