@@ -13,12 +13,12 @@ function Darkmode() {
   };
   return (
     <div className="darkmode">
-      <img src={Sun} alt="" className="d-icon" />
-      <img src={Moon} alt="" className="d-icon" />
+      <img src={Sun} alt="sun-icon" className="d-icon" />
+      <img src={Moon} alt="moon-icon" className="d-icon" />
       <button
         className="d-button"
         onClick={handleclick}
-        style={{ left: theme.state.Darkmode ? 0 : 25 }}
+        style={{ left: theme.state.Darkmode ? 0 : 45 }}
       ></button>
     </div>
   );

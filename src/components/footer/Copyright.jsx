@@ -1,5 +1,4 @@
 import React from "react";
-import footer from "../footer/footer.css";
 
 function Copyright() {
   const date = new Date().getFullYear();
@@ -16,12 +15,11 @@ function Copyright() {
           />
         </a>
         <a href="https://www.linkedin.com/in/scottdialo/">
-        <img
+          <img
             src="LI-Logo.png"
             className="linkedin-icon"
             Alt="linkedin-icon"
           />
-         
         </a>
       </footer>
     </div>
