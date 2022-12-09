@@ -18,10 +18,9 @@ function About() {
       <div className="about-right">
         <h1 className="about-title">About Me</h1>
         <p className="about-sub">
-          "Do the best you can until you know better. Then when you know better,
-          do better."{" "}
+          "Wherever you go, go with all your heart."
           <strong>
-            <i>Maya Angelou</i>
+            <i>Confucius</i>
           </strong>
         </p>
         <p className="about-description">
