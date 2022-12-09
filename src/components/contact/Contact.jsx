@@ -1,7 +1,7 @@
 import React, { useRef, useState } from "react";
 import "../contact/contact.css";
 import emailjs from "@emailjs/browser";
-import Darkmode from "../darkmode/darkmode";
+// import Darkmode from "../darkmode/darkmode";
 
 function Contact() {
   const formRef = useRef();

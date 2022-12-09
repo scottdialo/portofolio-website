@@ -1,4 +1,5 @@
 import React from "react";
+// eslint-disable-next-line
 import product from "../../components/product/product.css";
 
 function Product({ img, link }) {
